@@ -16,7 +16,7 @@ My name is Joseph and I am an aspiring  electrical engineer. I've always loved s
 
 ![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
 
-[link to background](/background)
+[link to background](/background.md)
 
 ## Results
 
